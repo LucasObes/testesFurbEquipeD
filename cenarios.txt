@@ -1,0 +1,21 @@
+Cenários teste BDD 
+
+1. Funcionalidade: Criação de conta bancária 
+
+Como um gerente de um determinado banco, eu quero conseguir criar contas para os meus clientes, informando Nome Completoe Documento do titular da contapara que eles consigam utilizar os recursos do banco em que trabalho. 
+
+2. Funcionalidade: Depósito 
+
+Como um cliente de um determinado banco, eu quero conseguir realizar depósitos em conta para aumentar meu saldo. 
+
+3. Funcionalidade: Saque 
+
+Como um cliente de um determinado banco, eu quero conseguir realizar saques de determinados valores para ter valores em mãos. 
+
+4. Funcionalidade: Transferência entre contas 
+
+Como um cliente de um determinado banco, eu quero realizar transferência entre duas contas para repassar o valor de uma conta a outra. 
+
+5. Funcionalidade: Consulta de saldo:  
+
+Dado que o cliente possui uma conta bancária cadastrada, deve-se ser possível visualizar o saldo da conta. Exemplo: Saldo da conta de R$420, deve-se ser possível visualizar a seguinte mensagem “Saldo atual: R$ 420”. 
